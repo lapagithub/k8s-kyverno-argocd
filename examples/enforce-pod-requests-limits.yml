@@ -1,5 +1,5 @@
 apiVersion: kyverno.io/v1
-kind: ClusterPoliy
+kind: ClusterPolicy
 metadata:
   name: require-requests-limits
   annotations:
